@@ -1,16 +1,42 @@
-# practicalexam
+# 📇 ContactbookApp – Flutter Contact Manager
 
-A new Flutter project.
+**ContactbookApp** is a modern contact management application built with Flutter. It allows users to add, view, update, and delete contacts with ease. Designed with simplicity and usability in mind, this app is perfect for anyone who wants to manage contacts locally with a clean and responsive UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- ➕ Add new contacts (name, phone number, email, etc.)
+- 📋 View a scrollable list of saved contacts
+- ✏️ Edit and update existing contact information
+- 🗑️ Delete contacts with confirmation
+- 🔍 Search contacts by name
+- 🎨 Beautiful and responsive UI design
+- ⚡ Smooth performance even with many entries
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+To run the app on your local machine:
+
+### Prerequisites
+
+- Flutter SDK installed
+- Android Studio or VS Code
+- Android/iOS emulator or real device
+
+### Setup Instructions
+
+```bash
+# Clone the repository
+git clone https://github.com/Darshan-Pipaliya1208/ContactbookApp.git
+
+# Navigate to the project directory
+cd ContactbookApp
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
